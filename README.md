@@ -8,9 +8,7 @@ Tap on the screen to move the player so that it can avoid obstacles.
 {Describe your purpose for creating this app.}
 I've never made a mobile app before, but I've always wanted to learn how to, so this project was an attempt to learn how to.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6rT8_31ft1I)
 
 # Development Environment
 
